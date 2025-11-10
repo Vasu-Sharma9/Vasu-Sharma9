@@ -14,7 +14,7 @@ I love exploring how data, design, and engineering work together to solve real p
 
 - analyze and visualize data with **Python**, **Power BI**, and **Excel**  
 - work with **SQL** and **Pandas** for data handling  
-- explore **Machine Learning** using models like **Logistic Regression** and **Decision Trees**  
+- explore **Machine Learning**  
 - build responsive UIs with **HTML**, **Tailwind CSS**, **JavaScript**, and **Streamlit**  
 - create designs with **Canva**, **Figma**, and **Adobe**
 
