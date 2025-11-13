@@ -22,9 +22,11 @@ I love exploring how data, design, and engineering work together to solve real p
 
 ## What I’ve Been Working On  
 
-### Project 1: Predicting Subscription Conversion Using App Behavior  
+### Project 1: Predicting Subscription Conversion Using App Behavior 
 
-### Project 2: Real Estate Price Intelligence Model  
+### Project 2: Banking Risk & Loan Analytics Dashboard (Power BI)
+
+### Project 3: Real Estate Price Intelligence Model  
 (Will be uploading soon)
 
 ### Project 4: Generative AI Healthcare Assistant (RAG)  
